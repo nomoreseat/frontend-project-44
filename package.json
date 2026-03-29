@@ -1,0 +1,21 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Brain Games",
+  "type" : "module",
+  "homepage": "https://github.com/nomoreseat/frontend-project-44#readme",
+  "bugs": {
+    "url": "https://github.com/nomoreseat/frontend-project-44/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomoreseat/frontend-project-44.git"
+  },
+  "license": "ISC",
+  "bin": {
+  "brain-games": "bin/brain-games.js"
+},
+  "author": "nomoreseat"
+  
+  
+}
